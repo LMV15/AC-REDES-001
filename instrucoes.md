@@ -24,5 +24,4 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl
 
 Entrega
 
-● Breve Relatório e Capturas de Tela: Inclua capturas de tela mostrando todo o
-processo e site funcionando.
+● Breve Relatório e Capturas de Tela: Inclua capturas de tela mostrando todo o processo e site funcionando.
