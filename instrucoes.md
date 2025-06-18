@@ -14,5 +14,15 @@ Passos para o Exercício
         ssh usuario@IP-do-servidor
 
 Instalação do LAMP Stack:
+https://www.digitalocean.com/community/tutorials/como-instalar-a-pilha-linux-apache-mysql-php-lamp-no-ubuntu-18-04-pt
 
-https://www.digitalocean.com/community/tutorials/como-instalar-a-pilha-linux-apache-m
+Download do Tema Gratuito: Acesse o StartBootstrap (https://startbootstrap.com/themes) e escolha um tema gratuito para o seu site. Baixe o tema para o seu computador e, em seguida, transfira-o para o servidor via SCP ou diretamente via terminal.
+
+Configuração do Apache para HTTPS (SSL):
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-18-04-pt
+
+Entrega
+
+● Breve Relatório e Capturas de Tela: Inclua capturas de tela mostrando todo o
+processo e site funcionando.
